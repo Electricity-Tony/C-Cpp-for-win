@@ -7,6 +7,8 @@ this repository tells how to creat a c or cpp templete for win in vscode
 
 [VSCode c++环境配置](https://blog.csdn.net/weixin_45743271/article/details/119869412)
 
+[网盘下载mingw64](https://pan.baidu.com/s/1khNn3VDrl1WwFMerfbk7HQ?pwd=18zx)
+
 ## 2 安装扩展
 
 VScode本身只是一款文本编辑器而已，所有功能都是以插件扩展的形式所存在，选择活动栏上的扩展视图图标或使用键盘快捷键(Ctrl+Shift+X)，搜索C++，点击安装即可
